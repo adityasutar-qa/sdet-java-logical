@@ -986,3 +986,11 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact com.google.gu
 2025-09-15 13:50:01,681 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Aditya Sutar\sdet\Automation_Testing\src\main\resources
 2025-09-15 13:50:01,682 [Worker-75: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
 2025-09-15 13:50:01,683 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Aditya Sutar\sdet\Automation_Testing\src\test\resources
+2025-09-15 13:51:07,926 [Worker-72: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-15 13:51:07,927 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Aditya Sutar\sdet\Automation_Testing\src\main\resources
+2025-09-15 13:51:07,928 [Worker-72: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-15 13:51:07,940 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Aditya Sutar\sdet\Automation_Testing\src\test\resources
+2025-09-15 13:51:21,201 [Worker-72: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-15 13:51:21,202 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Aditya Sutar\sdet\Automation_Testing\src\main\resources
+2025-09-15 13:51:21,204 [Worker-72: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-15 13:51:21,204 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Aditya Sutar\sdet\Automation_Testing\src\test\resources
